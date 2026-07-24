@@ -8,14 +8,12 @@ Skills: HTML / CSS / Java / Python
 - 🌱 I’m currently learning Java, Python, and Git & GitHub. And plan to dive deep into Machine Learning, AI Engineering, and Data Analysis
 - 😄 Pronouns: He/Him 
 
-You can contact me through either of the following:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Local-Equinox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnerwincadiz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/johnerwincadiz07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gah.gah7/)  
-
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Local-Equinox&show_icons=true)  
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Local-Equinox)](https://github.com/Local-Equinox/github-stats-extended)
 
-<p align="center>"
-Thanks for visiting my profile. See you next time!
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Local-Equinox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnerwincadiz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/johnerwincadiz07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gah.gah7/)  
 
+<p align="center">
+  Thank you for visiting my profile. Until next time!
+</p>
