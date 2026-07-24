@@ -15,9 +15,7 @@ You can contact me through either of the following:
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Local-Equinox)](https://github.com/Local-Equinox/github-stats-extended)
 
+<p align="center>"
 Thanks for visiting my profile. See you next time!
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
