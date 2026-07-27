@@ -38,6 +38,7 @@ Hey there! My name is **John Erwin F. Cadiz** from the Philippines, but you can 
 
 #
 
+![](https://komarev.com/ghpvc/?username=Local-Equinox)
 <p align="center">
   Thank you for visiting my profile. Until next time!
 </p>
