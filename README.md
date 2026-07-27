@@ -1,4 +1,7 @@
 # 🌏 Local-Equinox 
+
+![](https://github.com/Local-Equinox/Local-Equinox/blob/main/BANNER.png)
+
 **`Aspiring Software Engineer`**
 #### About me
 Hey there! My name is **John Erwin F. Cadiz** from the Philippines, but you can call me Erwin for short! I'm currently in my 2nd year of college, studying the course of *BS in Information Technology*, majoring in the Database Track, at Mindanao State University - Iligan Institute of Technology (MSU-IIT). 
