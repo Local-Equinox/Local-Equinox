@@ -7,7 +7,7 @@
 Hey there! My name is **John Erwin F. Cadiz** from the Philippines, but you can call me Erwin for short! I'm currently in my 2nd year of college, studying the course of *BS in Information Technology*, majoring in the Database Track, at Mindanao State University - Iligan Institute of Technology (MSU-IIT). 
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on projects for my CodeAlpha Internship 
+- 🔭 I’m working on projects that is impactful and worthwhile
 - 🌱 I’m currently learning Java, Python, and Git & GitHub. And plan to dive deep into Machine Learning, AI Engineering, and Data Analysis
 - 📫 How to reach me: johnerwincadiz20@gmail.com
 
