@@ -1,6 +1,6 @@
 # 🌏 Local-Equinox 
 
-![](https://github.com/Local-Equinox/Local-Equinox/blob/main/BANNER.png)
+![](https://github.com/Local-Equinox/Local-Equinox/blob/main/BANNER%20(1).png?raw=true)
 
 **`Aspiring Software Engineer`**
 #### About me
