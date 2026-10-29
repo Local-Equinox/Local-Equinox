@@ -1,4 +1,4 @@
-# 🌏 Local-Equinox 
+# 🌏 Local-Equinox 📡
 
 ![](https://github.com/Local-Equinox/Local-Equinox/blob/main/BANNER%20(1).png?raw=true)
 
